@@ -7,7 +7,7 @@ Real-Time Metrics: View total inventory value, stock levels, excise tax, and pro
 Trend Analysis: Track quarterly purchase trends and vendor performance.
 Data-Driven Insights: Make informed decisions with clear visibility on stock, sales, and top-selling items.
 
-📈 Key Metrics
+📈 Key Metrics 
 Inventory Value: $79.7M
 Total Sales: $33.1M
 Total Stock: 5M items
