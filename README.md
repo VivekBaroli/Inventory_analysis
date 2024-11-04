@@ -2,6 +2,13 @@
 
 Welcome to the **Inventory Analysis Dashboard**! This tool provides insights into the Company’s inventory and manufacturing data, supporting effective stock management and improved turnover.
 
+![Inventory Value Screenshot](images/homepage.png)
+
+![Inventory Value Screenshot](images/summary.png)
+
+![Inventory Value Screenshot](images/Dashboard.png)
+
+
 ## 🚀 Key Features
 - **Real-Time Metrics**: View total inventory value, stock levels, excise tax, and product quantities.
 - **Trend Analysis**: Track quarterly purchasing trends and vendor performance.
